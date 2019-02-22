@@ -5,9 +5,10 @@ Here we provide the code required to reproduce results reported in the manuscrip
 
 2) Stochastic simulations code/ contains the c++ code required to perform stochastic simulations on either Érdos-Renyj or modular networks. 
 
-  2-a) Compile with 'make' (c++11 compiler required)
+  2-a) Compile with ```make``` (c++11 compiler required)
   
-  2-b) Run with ./launch_simulation args, where the args are:
+  2-b) Run with ```./launch_simulation args```, where the ```args``` are:
+    
     - Number of nodes
     
     - Maximum simulation time
