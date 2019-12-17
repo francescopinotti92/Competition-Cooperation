@@ -3,7 +3,7 @@ Here we provide the code required to reproduce results reported in the paper
 
 [Interplay between competitive and cooperative interactions in a three-player pathogen system](https://arxiv.org/abs/1912.07289)
 
-F. Pinotti, F. Ghanbarnejad, P. Hövel, C. Poletto, arXiv:1912.07289 2019
+Pinotti F, Ghanbarnejad F, Hövel P, Poletto C, arXiv:1912.07289 2019
 
 **When you use this code, please cite the above reference**
 
