@@ -1,5 +1,15 @@
 # Competition-Cooperation
-Here we provide the code required to reproduce results reported in the manuscript "Interplay between competitive and cooperative interactions in multi-pathogen systems" by F. Pinotti, F. Ghanbarnejad, P. Höevel, C. Poletto.
+Here we provide the code required to reproduce results reported in the paper 
+
+[Interplay between competitive and cooperative interactions in a three-player pathogen system](https://arxiv.org/abs/1912.07289)
+
+F. Pinotti, F. Ghanbarnejad, P. Höevel, C. Poletto.
+
+**When you use this code, please cite the above reference**
+
+Further details on terms of use: see LICENSE
+
+# How to
 
 1) Mean-Field simulations code/ contains python code required to integrate the mean-field equations for a single population and for two coupled populations for any given choice of initial conditions and model parameters. Also, it contains the code necessary to perform linear stability analysis for the single-population case
 
